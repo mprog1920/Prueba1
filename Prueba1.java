@@ -1,9 +1,6 @@
 
 /**
- *  
- * 
- * @author  
- * @version  
+ *   
  */
 public class Prueba1
 {
