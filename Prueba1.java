@@ -13,6 +13,7 @@ public class Prueba1
         System.out.println("Hello desde BlueJ");
         System.out.println("Hola desde BlueJ");
         int x = 10;
+        x++;
          
     }
 }
