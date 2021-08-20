@@ -14,6 +14,7 @@ public class Prueba1
         int x = 20;
         x++;
         System.out.println("x = " + x);
+        int y = 44;
          
     }
 }
